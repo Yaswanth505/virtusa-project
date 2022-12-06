@@ -1,0 +1,17 @@
+.content-info{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap:0.1em;
+}
+
+.card{
+    max-width: 25em;
+    border: 1px solid black;
+    border-radius: 1.875rem;
+}
+img{
+    width:25em;
+    height:15em;
+    border-radius:  1.875rem 1.875rem  0 0;
+}
